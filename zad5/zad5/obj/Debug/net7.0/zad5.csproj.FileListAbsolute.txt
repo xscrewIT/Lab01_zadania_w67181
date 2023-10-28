@@ -1,0 +1,14 @@
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\bin\Debug\net7.0\zad5.exe
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\bin\Debug\net7.0\zad5.deps.json
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\bin\Debug\net7.0\zad5.runtimeconfig.json
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\bin\Debug\net7.0\zad5.dll
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\bin\Debug\net7.0\zad5.pdb
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.AssemblyInfoInputs.cache
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.AssemblyInfo.cs
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.csproj.CoreCompileInputs.cache
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.dll
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\refint\zad5.dll
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.pdb
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\zad5.genruntimeconfig.cache
+Z:\Sql\WSIZ\3_semestr\Laby_Programowanie_Objektowe\22_10\zad5\zad5\obj\Debug\net7.0\ref\zad5.dll
